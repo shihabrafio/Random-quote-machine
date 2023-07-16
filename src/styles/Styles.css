@@ -1,0 +1,26 @@
+#quote-box {
+    border: 1px solid black;
+    width: 35rem;
+    margin: 120px;
+    display: flex;
+    flex-direction: column;
+    align-content: first baseline;
+    margin: 400px;
+    min-height: 19rem;
+    margin-top: 17rem;
+    justify-content: space-around;   
+}
+
+#text {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    margin: 0px;
+}
+
+.last {
+    display: flex;
+    justify-content: space-around;
+}
